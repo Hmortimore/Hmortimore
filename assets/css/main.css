@@ -1624,10 +1624,10 @@
 
 	body {
 		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #30415D 15%, #8EAEBD 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #30415D 15%, #8EAEBD 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #30415D 15%, #8EAEBD 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #30415D 15%, #8EAEBD 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2422,6 +2422,19 @@
 		display: inline-block;
 		position: relative;
 	}
+
+
+
+	.roundedImage {
+	    overflow:hidden;
+	    -webkit-border-radius:50px;
+	    -moz-border-radius:50px;
+	    border-radius:50px;
+	    width:90px;
+	    height:90px;
+	    background-size:90px 0px; 
+	}
+
 
 		.image img {
 			border-radius: 8px;
