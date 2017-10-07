@@ -2345,23 +2345,23 @@
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #54AAFF;
 		}
 
 		.icon.style2 {
-			color: #c79cc8;
+			color: #517FAD;
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #509DEA;
 		}
 
 		.icon.style4 {
-			color: #9bb2e1;
+			color: #35689A;
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #54AAFF;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2926,23 +2926,23 @@
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #CDCDCD;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #D0D7E9;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #B1BFE1;
 			}
 
 			.statistics li.style4 {
-				background-color: #9bb2e1;
+				background-color: #97B0ED;
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #5A6B94;
 			}
 
 			.statistics li strong, .statistics li b {
