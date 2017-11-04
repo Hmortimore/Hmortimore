@@ -2357,11 +2357,11 @@
 		}
 
 		.icon.style4 {
-			color: #35689A;
+			color: #6DB3BF;
 		}
 
 		.icon.style5 {
-			color: #54AAFF;
+			color: #4699B7;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2938,11 +2938,11 @@
 			}
 
 			.statistics li.style4 {
-				background-color: #97B0ED;
+				background-color: #86B4CB;
 			}
 
 			.statistics li.style5 {
-				background-color: #5A6B94;
+				background-color: #74A0AD;
 			}
 
 			.statistics li strong, .statistics li b {
@@ -3812,3 +3812,11 @@
 			}
 
 		}
+
+/* My Own Adds */
+
+.img-resize {
+    width:540px; /* you can use % */
+    height: 500px;
+}
+
